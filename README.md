@@ -21,9 +21,6 @@ Desarrollar herramientas de evaluación y seguimiento de talento futbolístico m
 ## 🛠️ Herramientas Utilizadas
 
 - **Python**: pandas, numpy, matplotlib, mplsoccer, seaborn  
-- **Power BI** y/o Tableau para dashboards ejecutivos  
-- **Excel VBA** para automatización de reportes  
-- **Fuentes de datos**: WhoScored, FotMob, Wyscout, datos propios / internos
 
 > Cada informe está diseñado para ser **reproducible y trazable**, con separación clara entre código, datos y visuales exportadas.
 
@@ -31,11 +28,11 @@ Desarrollar herramientas de evaluación y seguimiento de talento futbolístico m
 
 ### 🔹 Informe individual: Arda Güler
 
-![Arda Güler - Informe Visual](./img/arda_guler_informe.png)
+![Arda Güler - Informe Visual](./Análisis de portafolios Scout/arda_guler_informe.png)
 
 ### 🔹 Informe comparativo: Franco Mastantuono vs centrocampistas Real Madrid
 
-![Franco Mastantuono - Comparativa](./img/mastantuono_comparativa.png)
+![Franco Mastantuono - Comparativa](./Análisis de portafolios Scout/mastantuono_comparativa.png)
 
 > Visualizaciones generadas con `matplotlib`, `mplsoccer` y `seaborn`. Diseño visual inspirado en estilo Opta y radar charts personalizados.
 
@@ -63,8 +60,3 @@ Portafolio-Scout/
 **Aithor**  
 Consultor de datos | Analista de rendimiento en fútbol | Especialista en scouting cuantitativo  
 Experiencia en integración de datos de eventos, visualización avanzada, modelos predictivos y automatización de reportes.
-
-## 📬 Contacto
-
-- LinkedIn: [tu-enlace](https://linkedin.com/in/tu-perfil)
-- Email: tu-email@dominio.com
