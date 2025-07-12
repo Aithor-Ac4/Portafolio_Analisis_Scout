@@ -2,6 +2,14 @@
 
 Este repositorio contiene un conjunto de informes y visualizaciones desarrollados como parte de un **portafolio profesional de análisis scout**, con enfoque en el rendimiento individual de jugadores en competiciones de élite. El objetivo es ofrecer una evaluación objetiva y visual del desempeño futbolístico, apoyada en métricas clave y técnicas de análisis de datos avanzadas.
 
+## 🖼️ Ejemplos Visuales
+
+### 🔹 Informe individual: Arda Güler
+![Arda Güler - Informe Visual](arda_guler_informe.png)
+
+### 🔹 Informe comparativo: Franco Mastantuono vs centrocampistas Real Madrid
+![Franco Mastantuono - Comparativa](mastantuono_comparativa.png)
+
 ## 🧠 Objetivo del Proyecto
 
 Desarrollar herramientas de evaluación y seguimiento de talento futbolístico mediante el uso de datos estructurados (event data, tracking, métricas avanzadas), orientadas a:
@@ -23,17 +31,6 @@ Desarrollar herramientas de evaluación y seguimiento de talento futbolístico m
 - **Python**: pandas, numpy, matplotlib, mplsoccer, seaborn  
 
 > Cada informe está diseñado para ser **reproducible y trazable**, con separación clara entre código, datos y visuales exportadas.
-
-## 🖼️ Ejemplos Visuales
-
-### 🔹 Informe individual: Arda Güler
-![Arda Güler - Informe Visual](arda_guler_informe.png)
-
-### 🔹 Informe comparativo: Franco Mastantuono vs centrocampistas Real Madrid
-![Franco Mastantuono - Comparativa](mastantuono_comparativa.png)
-
-
-> Visualizaciones generadas con `matplotlib`, `mplsoccer` y `seaborn`. Diseño visual inspirado en estilo Opta y radar charts personalizados.
 
 ## 🗂️ Estructura del Repositorio
 
