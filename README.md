@@ -27,12 +27,10 @@ Desarrollar herramientas de evaluación y seguimiento de talento futbolístico m
 ## 🖼️ Ejemplos Visuales
 
 ### 🔹 Informe individual: Arda Güler
-
-![Arda Güler - Informe Visual](./Análisis de portafolios Scout/arda_guler_informe.png)
+![Arda Güler - Informe Visual](./img/arda_guler_informe.png)
 
 ### 🔹 Informe comparativo: Franco Mastantuono vs centrocampistas Real Madrid
-
-![Franco Mastantuono - Comparativa](./Análisis de portafolios Scout/mastantuono_comparativa.png)
+![Franco Mastantuono - Comparativa](./img/mastantuono_comparativa.png)
 
 > Visualizaciones generadas con `matplotlib`, `mplsoccer` y `seaborn`. Diseño visual inspirado en estilo Opta y radar charts personalizados.
 
