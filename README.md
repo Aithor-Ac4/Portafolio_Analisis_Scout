@@ -2,13 +2,10 @@
 
 Este repositorio contiene un conjunto de informes y visualizaciones desarrollados como parte de un **portafolio profesional de análisis scout**, con enfoque en el rendimiento individual de jugadores en competiciones de élite. El objetivo es ofrecer una evaluación objetiva y visual del desempeño futbolístico, apoyada en métricas clave y técnicas de análisis de datos avanzadas.
 
-## 🖼️ Ejemplos Visuales
-
-### 🔹 Informe individual: Arda Güler
-![Arda Güler - Informe Visual](arda_guler_informe.png)
-
-### 🔹 Informe comparativo: Franco Mastantuono vs centrocampistas Real Madrid
-![Franco Mastantuono - Comparativa](mastantuono_comparativa.png)
+<p align="center">
+  <img src="arda_guler_informe.png" width="31%" />
+  <img src="mastantuono_comparativa.png" width="31%" />
+</p>
 
 ## 🧠 Objetivo del Proyecto
 
